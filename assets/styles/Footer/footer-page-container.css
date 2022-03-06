@@ -1,0 +1,58 @@
+.footer-page__container{
+    width: 70% ;
+    border-top: solid 1px white;
+    border-bottom: solid 1px white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+.footer-page__container h3{
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+}
+
+.footer-page__container p{
+    margin-bottom: 12px;
+}
+
+.footer-page__container a{
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    
+}
+
+#footer-page-container__siga a{
+    width: 120px;
+    display: flex;
+}
+
+#footer-page-container__siga i{
+    width: 25px;
+    color: white;
+}
+
+
+
+@media screen and (min-width: 749px ){
+    #footer-page-container__siga{
+        margin-top: 20px;
+        
+    }
+
+}
+
+@media screen and (max-width: 517px){
+    .footer-page-container__institucional,
+    .footer-page-container__corporativo,
+    .footer-page-container__planos,
+    #footer-page-container__siga{
+        padding: 15px;
+    }
+}
+
+

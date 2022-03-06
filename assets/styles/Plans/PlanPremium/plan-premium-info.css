@@ -1,0 +1,43 @@
+.plan-premium__info{
+    padding: 30px;
+    text-align: center;
+}
+
+
+.plan-premium__info p{
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+
+.plan-premium__info h3{
+    font-size: 25px;
+    font-weight: 400;
+    color: #F3001D;
+    margin-bottom: 20px;
+    
+}
+
+#price-premium{
+    font-size: 40px;
+    color: #F3001D;
+    font-weight: 800;
+}
+
+.plan-premium__info button{
+    width: 200px;
+    height: 50px;
+    background-color: #F3001D;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 22px;
+    
+}
+
+.plan-premium__info button:hover{
+   background-color: rgb(189, 4, 26);
+   cursor: pointer;
+}

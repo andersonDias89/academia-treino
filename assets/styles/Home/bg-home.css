@@ -1,0 +1,14 @@
+.bg-home{
+    width: 60%;
+    height: calc(100vh - 70px);
+    background-image: url(../../img/BG-home.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+@media screen and (max-width: 685px){
+    .bg-home{
+        display: none;
+    }
+
+}

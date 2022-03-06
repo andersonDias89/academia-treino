@@ -1,0 +1,31 @@
+.menu-home{
+    width: 100%;
+    height: 70px;
+    background-color: #F3001D;
+    position: relative;
+}
+
+.menu-home ul{
+    width: 500px;
+    height: 70px;
+    right: 20px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.menu-home a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 20px;
+    font-size: 20px;
+}
+
+
+@media screen and (max-width: 595px){
+    .menu-home ul{
+        display: none;
+    }
+}

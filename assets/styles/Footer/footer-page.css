@@ -1,0 +1,17 @@
+.footer-page{
+    width: 100%;
+    height: 500px;
+    background-color: #F3001D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+@media screen and (max-width: 517px){
+    .footer-page{
+        height: 900px;
+    }
+}
