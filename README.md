@@ -5,7 +5,7 @@
 </div>
 
 
-<h1>Página simples de academia</h1>
+<h1>Página simples para academia</h1>
 
 <h2>Descrição</h2>
 <p>Esse projeto foi mais um para por em prática o meu aprendizado.<br>
@@ -30,12 +30,41 @@ tela de login e algumas outras funcionalidades para deixar o projeto mais comple
 
 
 
-<h2>Preview</h2>
+<h2>Preview DESKTOP</h2>
 
-<div>![Preview Page Academia](./assets/img/Print-page-academia.png)<div>
-<div>![Preview Page academia mobile](./assets/img/Pirnt-page-mobile-academia.png)<div>
+<br>
 
-<h2 align="center"> My GitHub <a href="https://github.com/andersonDias89">https://github.com/andersonDias89</a></h2>
+ <div>
+
+ ![Preview Page Academia](./assets/img/Print-page-academia.png) 
+
+ </div>
+
+<h2>Preview MOBILE</h2>
+
+<p>Na parte mobile ainda falta desenvolver o menu 'hamburguer' <br>
+Em breve estarei atualizando...
+</p>
+
+<br>
+
+<div align="center"> 
+
+![Preview Page academia mobile](./assets/img/Pirnt-page-mobile-academia.png) 
+
+</div>
+
+<h2> 
+
+<a href="https://www.linkedin.com/in/anderson-dias-bb7b3122b/">Meu Linkedin</a>
+
+</h2>
+
+<h2> 
+
+<a href="https://github.com/andersonDias89">Meu GitHub</a>
+
+</h2>
 
 
 
