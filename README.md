@@ -32,8 +32,8 @@ tela de login e algumas outras funcionalidades para deixar o projeto mais comple
 
 <h2>Preview</h2>
 
-<div>![Preview Page Academia](/assets/img/Print-page-academia.png)<div>
-<div>![Preview Page academia mobile](/assets/img/Pirnt-page-mobile-academia.png)<div>
+<div>![Preview Page Academia](./assets/img/Print-page-academia.png)<div>
+<div>![Preview Page academia mobile](./assets/img/Pirnt-page-mobile-academia.png)<div>
 
 <h2 align="center"> My GitHub <a href="https://github.com/andersonDias89">https://github.com/andersonDias89</a></h2>
 
